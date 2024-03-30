@@ -12,8 +12,8 @@
 - [Quick look at the result](https://github.com/tasfiakatha/eBay-web-scraping/blob/main/README.md#quick-look-at-the-result)
 - [Takeaways](https://github.com/tasfiakatha/eBay-web-scraping/blob/main/README.md#takeaways)
 - [Blog post](https://github.com/tasfiakatha/eBay-web-scraping/blob/main/README.md#blog-post)
-- [Contribution]
-- [License]
+- [Contribution](https://github.com/tasfiakatha/eBay-web-scraping/blob/main/README.md#contribution)
+- [License](https://github.com/tasfiakatha/eBay-web-scraping/blob/main/README.md#license)
           
 ## Business problem statement
 In the competitive landscape of the retail industry, staying ahead requires constant vigilance over market dynamics, especially pricing trends set by larger competitors. For small retailers like our client, manually tracking pricing information from giants like eBay for each product can be laborious and time-consuming. To address this challenge, I have developed a sophisticated web scraper tool tailored specifically for the needs of small retailers in the shoe industry.

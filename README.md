@@ -12,6 +12,8 @@
 - [Quick look at the result](https://github.com/tasfiakatha/eBay-web-scraping/blob/main/README.md#quick-look-at-the-result)
 - [Takeaways](https://github.com/tasfiakatha/eBay-web-scraping/blob/main/README.md#takeaways)
 - [Blog post](https://github.com/tasfiakatha/eBay-web-scraping/blob/main/README.md#blog-post)
+- [Contribution]
+- [License]
           
 ## Business problem statement
 In the competitive landscape of the retail industry, staying ahead requires constant vigilance over market dynamics, especially pricing trends set by larger competitors. For small retailers like our client, manually tracking pricing information from giants like eBay for each product can be laborious and time-consuming. To address this challenge, I have developed a sophisticated web scraper tool tailored specifically for the needs of small retailers in the shoe industry.
@@ -46,3 +48,29 @@ In a nutshell, this Python script simplifies the task of gathering important det
 
 ## Blog post
 You can find the tutorial blog post for this project [here](https://medium.com/@tasfiakatha04/scraping-sneaker-deals-building-a-python-ebay-web-scraper-for-price-tracking-and-other-details-47b95930ffa7)
+
+## Contribution
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or contribute.
+
+## License
+MIT License
+
+Copyright (c) 2024 Tasfia Katha
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
